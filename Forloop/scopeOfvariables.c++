@@ -18,4 +18,5 @@ int main()
     // cout<<b<<endl;
     // can't use 
     // Also can't redeclare in same block
+    // changed
 }
